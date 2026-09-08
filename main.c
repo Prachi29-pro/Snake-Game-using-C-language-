@@ -1,4 +1,4 @@
-#inckude<curses.h>
+#include<curses.h>
 
 int main() {
   int screen_width = 40;
